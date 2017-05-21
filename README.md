@@ -4,24 +4,23 @@ Fixed version of MiniTankWars Fretta Gamemode.
 You need:
 Fretta13
 
-This gamemode is licenced under the MIT License, reproduced below:
+---MiniTank Wars---
+A Fretta gamemode by 
+BMCha and Echo 199
+Content and Code Copyright (c) 2010 BMCha and Echo 199
+All other content is copyright its respective owners.
 
-Copyright (c) 2010 BMCha
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+*-------CREDITS----------*
+BMCha: lua, models, some textures, sound editing
+Echo 199: textures, mapping
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+
+*----Sounds sourced from freesound.org and Half-Life 2---*
+
+Sound Sources by:
+-man
+-cmusounddesign
+-Erdie
+-tmkappelt
