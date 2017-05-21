@@ -4,14 +4,14 @@ Fixed version of MiniTankWars Fretta Gamemode.
 You need:
 Fretta13
 
----MiniTank Wars---\n
+---MiniTank Wars---
 A Fretta gamemode by 
 BMCha and Echo 199
 Content and Code Copyright (c) 2010 BMCha and Echo 199
 All other content is copyright its respective owners.
 
 
-*-------CREDITS----------*\n
+*-------CREDITS----------*
 BMCha: lua, models, some textures, sound editing
 Echo 199: textures, mapping
 
