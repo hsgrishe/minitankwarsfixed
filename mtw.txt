@@ -1,0 +1,7 @@
+"MiniTank Wars"
+{
+     "title"		"MiniTank Wars"
+     "maps"          "^mtw_"
+     "menusystem"    "1"
+     "workshopid"    ""
+}
