@@ -3,8 +3,6 @@ MiniTank Wars
 Copyright (c) 2010 BMCha
 This gamemode is licenced under the MIT License, reproduced in /shared.lua
 ------------------------
-
--- TODO: Fix hud
 cl_hud.lua
 	-Clientside(duh) HUD setup
 */
