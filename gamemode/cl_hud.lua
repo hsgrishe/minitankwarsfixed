@@ -37,10 +37,14 @@ local Color_Gray_75A = Color(60,60,60,191)
 local Color_Gray2 = Color(80,80,80)
 local Color_HUDYellow = Color(228,185,9)
 //fonts
-surface.CreateFont( "Trebuchet MS", 24*(ScrH()/768), 400, true, false, "TB22")
+--[[surface.CreateFont( "Trebuchet MS", 24*(ScrH()/768), 400, true, false, "TB22")
 surface.CreateFont( "Coolvetica", 22*(ScrH()/768), 300, true, false, "CV22" )
 surface.CreateFont( "Coolvetica", 34*(ScrH()/768), 250, true, false, "CV27" )
-surface.CreateFont( "Coolvetica", 18*(ScrH()/768), 300, true, false, "CV18" )
+surface.CreateFont( "Coolvetica", 18*(ScrH()/768), 300, true, false, "CV18" )]]
+surface.CreateFont("TB22", {font = "Trebuchet MS", size = 24*(ScrH()/768), weight = 400, antialias = true, additive = false});
+surface.CreateFont("CV22", {font = "Coolvetica", size = 22*(ScrH()/768), weight = 300, antialias = true, additive = false});
+surface.CreateFont("CV27", {font = "Coolvetica", size = 34*(ScrH()/768), weight = 250, antialias = true, additive = false});
+surface.CreateFont("CV18", {font = "Coolvetica", size = 18*(ScrH()/768), weight = 300, antialias = true, additive = false});
 //scalefactors
 local SF, SF2, SF3, SF4, VC, HC
 local function ScaleFactors() 
