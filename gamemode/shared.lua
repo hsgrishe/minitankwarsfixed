@@ -35,7 +35,7 @@ GM.Help		= " "
  
 GM.Data = {}
  
-DeriveGamemode( "fretta" )
+DeriveGamemode( "fretta13" )
 IncludePlayerClasses()
  
 GM.TeamBased = true				// Team based game or a Free For All game?
